@@ -1,0 +1,103 @@
+body{   margin: 0px;
+        text-transform: capitalize;
+        font-family: 'Source Sans Pro', sans-serif;}
+
+section{  height: 900px;
+    padding-bottom: 150px;
+    background-image:url("header-bg.png");
+        background-repeat: no-repeat;
+}
+.half-part{ width: 50%;
+            float: left;
+            text-align: center;
+            margin-top: 180px;
+             }
+.half-part2{ width: 30%;
+    float: left;}
+.half-part2 img{ width: 95%;
+                  margin-top: 150px;}
+
+h2{ font-size: 50px;
+    margin-right:65px ;
+   }
+h1 span{ font-size:60px ;
+          color:rgb(212, 14, 80) ;
+          font-family: 'Oswald', sans-serif;
+          margin-left: 50px;
+          
+        }
+.first-pera{ font-size: 20px;
+   color: gray;
+   font-weight: 600;
+   padding-bottom: 10px;
+    text-align: left;
+    margin-left: 350px;}
+.button{ text-decoration: none;
+        padding: 10px 20px;
+         background-color:rgb(212, 14, 80) ;
+        color: white;
+        font-weight: 700;
+        font-size: 20px;
+        border-radius: 7px;
+        margin-right: 140px;
+       }
+.second-section{ 
+     background-image: url("biography-bg.png");
+}
+.half1{width: 40%;
+    float: left; }
+.half2{  width: 40%;
+    float: left;
+    margin-left: 9%;
+    padding-left: 2%;
+    margin-top: 200px;}
+.second-pic{ margin-left: 400px;
+             width: 70%;
+            margin-top: 100px;}
+h1{ font-size: 50px;
+    font-weight: 700;}
+p{ font-size: 20px;
+    color: gray;
+    font-weight: 600;
+    margin-bottom: 30px;}
+.button2{ text-decoration: none;
+    padding: 10px 20px;
+     background-color:rgb(212, 14, 80) ;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 10px;}
+.third-section{ background-image: url("latest-work-bg.png");
+                background-repeat: no-repeat;
+                height: 400px;}
+.third2 img{ width: 25%;
+              margin-left: 6%;
+              }
+.third1{ text-align: center;}
+.footer1{
+    background-image: url("footer-bg.png");
+    text-align: center;
+    height: 400px;
+   
+}
+h3{ font-size: 25px;
+    font-weight: 600;}
+h5{ font-size: 15px;
+     font-weight: 400;}
+.foot-text p{ font-weight: 600;}
+.button-text{ font-weight: 500;
+              font-size: 15px;}
+.button3{ text-decoration: none;
+    padding: 10px 20px;
+     background-color:rgb(212, 14, 80) ;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 15px;
+    }
+footer p{text-align:center;
+        color: rgba(136, 130, 130, 0.719);
+        font-weight: 500;}
